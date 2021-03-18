@@ -259,7 +259,8 @@ body.fade-out {
 	width: 50%;
 	padding: 1.6%;
 	height: 448px; /* You may need to adjust this to fit your content */
-	background-color: #4d4d4d;
+  background-color: #4d4d4d;
+  overflow: auto;
 }
 
 .Row:after { /* This inserts something after the content of selected elements */
